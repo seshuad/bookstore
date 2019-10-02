@@ -2,8 +2,8 @@
 replicaCount: 2
 
 image:
-  repository: seshuad/spring-data-rest-postgresql
-  tag: 6 
+  repository: seshuad/bookstore
+  tag: latest 
   pullPolicy: IfNotPresent
 
 nameOverride: ""
